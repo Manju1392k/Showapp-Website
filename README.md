@@ -25,4 +25,5 @@ Latest Version.
 | Framework & Language | Version |
 | ------------- | ------------- |
 | Python  | 3.10.4  |
-| Django  |   |
+| Django  |  4.0.3 |
+| Bootstrap  |  5.1.3 |
