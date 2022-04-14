@@ -29,3 +29,5 @@ This website is developed with Bootstrap framework
 | Python  | 3.10.4  |
 | Django  |  4.0.3 |
 | Bootstrap  |  5.1.3 |
+
+---
