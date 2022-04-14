@@ -31,3 +31,10 @@ This website is developed with Bootstrap framework
 | Bootstrap  |  5.1.3 |
 
 ---
+
+# Command for Execute Project
+
+ ```bash
+ python manage.py runserver
+ ``
+ 
